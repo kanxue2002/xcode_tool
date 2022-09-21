@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>aaa</string>
+	<string>www</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic) &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>@property (nonatomic, weak) &lt;#type#&gt; *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7707FE2A-C6CF-4774-8A7D-EA6BEE058C11</string>
+	<string>E10BEAE2-7433-4892-9314-95759F276395</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>tq property declaration - assign</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tq property declaration - assign</string>
+	<string>TQ Property declaration - weak</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

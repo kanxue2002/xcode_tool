@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tq_init</string>
+	<string>ccc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self = [super init];
-    if (self) {
-    }
-    return self;</string>
+	<string>@property (nonatomic, copy) &lt;#type#&gt; *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>93934053-BDF5-48C3-8B7F-08EB04D69442</string>
+	<string>7A95EBE1-DFF2-4CA0-B468-0737029344F7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>tq init code</string>
+	<string>copy type property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tq init code</string>
+	<string>tq copy type property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
